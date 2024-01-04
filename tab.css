@@ -1,0 +1,21 @@
+
+*{
+    border:1px solid black;
+}
+.a{
+    height:600;
+    width:900;
+   
+}
+.b{
+    height:100;
+    width:900;
+}
+.c{
+    height: 100;
+    width:100;
+}
+.d{
+    height: 100;
+    width:700;
+}
